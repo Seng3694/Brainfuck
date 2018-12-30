@@ -1,4 +1,4 @@
-#Written by https://github.com/Seng3694
+#Written by Seng3694
 #Can only print single digit numbers
 
 #read a and subtract 48
